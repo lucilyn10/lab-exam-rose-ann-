@@ -1,0 +1,32 @@
+body{
+    background-color: #00faa7;
+    margin: 29%;
+}
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px pink;
+    font-size: 6vh;
+}
+.img{
+    display: inline-block;
+    width: 100%;
+}
+#caption{
+    font-size: 18px;
+    font-family: Gill Sans;
+    color: black;
+    text-align: center;
+}
+#tribute-data{
+   background-color: rgb (46, 139, 87, 0.25);
+   box-shadow: 20 px 20px #98FB98;
+   font-family: Georgia;
+   margin: 12px;
+   margin-top: 50px;
+}
+h1 .title-kalam{
+font-size: 35px;
+color: white;
+text-align: center;
+text-shadow: #98FB98;
+}
